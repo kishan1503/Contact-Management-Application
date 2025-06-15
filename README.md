@@ -37,7 +37,7 @@ To run the Contact Management Application locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Amitdahiya08/ContactApp
+   git clone https://github.com/kishan1503/Contact-Management-Application
    ```
 
 2. Navigate to the backend directory:
